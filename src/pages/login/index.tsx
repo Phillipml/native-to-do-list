@@ -1,7 +1,12 @@
-import React from 'react'
+import React from 'react';
+import { View } from 'react-native';
 
 export default function Login() {
   return (
-    <div>logins</div>
-  )
+    <View>
+      <View></View>
+      <View></View>
+      <View></View>
+    </View>
+  );
 }
